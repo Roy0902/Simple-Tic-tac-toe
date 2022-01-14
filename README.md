@@ -1,2 +1,4 @@
 # Simple-Tic-tac-toe
-This is a simple tic-tac-toe game using HTML, CSS and javascript.
+Description:
+This is a simple website to let two player to play the Tic-tac-toe games.
+
